@@ -1,0 +1,27 @@
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.pdb
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe.config
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.exe
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.pdb
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.pdb
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csprojResolveAssemblyReference.cache
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Form1.resources
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Properties.Resources.resources
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\bin\Debug\Expresiones aritméticas.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones_aritméticas.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\15. Expresiones aritméticas\Expresiones aritméticas\obj\Debug\Expresiones aritméticas.csproj.GenerateResource.Cache
